@@ -193,8 +193,9 @@ animation: fadeSlideUp 3.5s ease-out forwards;
 .shop-container {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
-  gap: 1rem;
+  gap: 2rem;
   margin-top: 12rem;
+    box-sizing: border-box;
 }
 
 .shop-container .box {
