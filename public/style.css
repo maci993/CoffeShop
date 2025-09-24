@@ -524,6 +524,7 @@ header {
 }
 
 .about-container {
+   background-image: url('../images/about.jpg');
   display: flex;
   align-items: center;
   gap: 2rem;
